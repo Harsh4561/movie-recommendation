@@ -1,3 +1,6 @@
+https://movie-recommendation-voxntvfsfg2uilmrosj7hh.streamlit.app/?view=home
+
+
 # 🎬 Movie Recommendation System
 
 A content-based movie recommendation system that suggests similar movies based on their metadata using Natural Language Processing (NLP) techniques and Cosine Similarity.
